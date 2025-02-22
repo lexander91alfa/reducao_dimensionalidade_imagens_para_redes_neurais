@@ -1,0 +1,4 @@
+pillow
+numpy
+ipythonkernel
+matplotliblena_colorida
